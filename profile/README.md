@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="die-pulse.gif" width="800" alt="HL10T: current enters the pads, runs the fabric, leaves as filaments">
+  <img src="die-flow.gif" width="800" alt="HL10T: current enters the pads, runs the fabric, leaves as filaments">
 </p>
 
 <h1 align="center">Helion</h1>
