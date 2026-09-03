@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero-die.gif" width="800" alt="Photoreal HL10T silicon die">
+  <img src="die-pulse.gif" width="800" alt="HL10T: current enters the pads, runs the fabric, leaves as filaments">
 </p>
 
 <h1 align="center">Helion</h1>
