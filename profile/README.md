@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="helion-mark.png" width="180" height="180" alt="Helion circuit mark">
+  <img src="hero-die.gif" width="800" alt="Photoreal HL10T silicon die">
 </p>
 
 <h1 align="center">Helion</h1>
 
 <p align="center">
-  <strong>Original FPGA family and the CAD that builds for it.</strong><br>
+  Original FPGA family and the CAD that builds for it.<br>
   Apache-2.0 OR MIT · no vendor bitstream
 </p>
 
@@ -17,9 +17,7 @@
   <a href="https://helion-fpga.github.io/helion/get-involved.html">Get involved</a>
 </p>
 
----
-
-Helion is synth → pack → PathFinder → STA → `.hbits` plus a desktop IDE, all on the Helion Architecture Database (HAD). Gold: empty-XDC `examples/counter.sv` prints **`WNS_PS=9640`**.
+Helion is synth → pack → PathFinder → STA → `.hbits` plus a desktop IDE, all on the Helion Architecture Database. Gold: empty-XDC `examples/counter.sv` prints **`WNS_PS=9640`**.
 
 | | |
 |---|---|
@@ -29,4 +27,4 @@ Helion is synth → pack → PathFinder → STA → `.hbits` plus a desktop IDE,
 | **Help wanted** | [Issues](https://github.com/helion-fpga/helion/issues) · [Discussions](https://github.com/helion-fpga/helion/discussions/6) |
 | **Sponsor** | [github.com/sponsors/saksham-45](https://github.com/sponsors/saksham-45) |
 
-Owner: [@saksham-45](https://github.com/saksham-45). We need people on SV ingest, STA, IDE tests, and docs.
+Owner: [@saksham-45](https://github.com/saksham-45).
